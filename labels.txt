@@ -1,0 +1,8 @@
+0 Tomato_Healthy
+1 Tomato_Early_Blight
+2 Tomato_Late_Blight
+3 Tomato_Leaf_Spot
+4 Rice_Bacterial_Blight
+5 Rice_Brown_Spot
+6 Rice_Leaf_Blast
+7 Rice_Sheath_Blight
